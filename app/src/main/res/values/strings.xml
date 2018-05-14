@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="no_internet_connection">No internet connection. Please try again later.</string>
+    <string name="no_news">No news found. Please try again later.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_page_size_label">How many news to show</string>
+    <string name="settings_page_size_key" translatable="false">page_size</string>
+    <string name="settings_page_size_default" translatable="false">36</string>
+
+    <string name="settings_search_label">Search news</string>
+    <string name="settings_search_key" translatable="false">search_query</string>
+
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+
+    <string name="settings_section_sport_label">Sport</string>
+    <string name="settings_section_sport_value" translatable="false">sport</string>
+    <string name="settings_section_culture_label">Culture</string>
+    <string name="settings_section_culture_value" translatable="false">culture</string>
+    <string name="settings_section_lifeandstyle_label">Lifestyle</string>
+    <string name="settings_section_lifeandstyle_value" translatable="false">lifeandstyle</string>
+    <string name="settings_section_technology_label">Tech</string>
+    <string name="settings_section_technology_value" translatable="false">technology</string>
+    <string name="settings_section_all_label">All news</string>
+    <string name="settings_section_all_value" translatable="false">all</string>
+
+    <string name="settings_section_default_value" translatable="false">all</string>
+
+</resources>

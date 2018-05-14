@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#FFD287</color>
+    <color name="colorSection">#DD5154</color>
+    <color name="colorAccent">#DD5154</color>
+    <color name="random_news">#FDF7E7</color>
+</resources>
