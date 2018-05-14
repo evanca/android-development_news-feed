@@ -3,8 +3,8 @@ P6 / P7 "News Feed" (Stage II)
 
 Tested on Nexus 5X emulator / API level 27 (portrait mode) <br>
 
-![image]
-![image]
+![image](https://github.com/evanca/ABND_P6-P7_News-Feed/blob/master/2018-05-12-Android%20Emulator%20-%20Nexus_5X_API_P_5554-A.jpg)
+![image](https://github.com/evanca/ABND_P6-P7_News-Feed/blob/master/2018-05-12-Android%20Emulator%20-%20Nexus_5X_API_P_5554-B.jpg)
 
 #### Project Overview: ##### 
 
@@ -33,7 +33,7 @@ Create News Feed app which gives a user regularly-updated news from the internet
 - [x] Apply different background color for some cells with fewer text
 - [x] Handle a case when there is no image for an article and show a default thumbnail<br>
 
-[![YouTube](https:...jpg)](https://www.youtube.com/watch?v=oPbPPzfD5g8)
+[![YouTube](https://github.com/evanca/ABND_P6-P7_News-Feed/blob/master/2018-05-14-ABND%20P7%20News%20Feed%20Stage%20II%20Demo%20-%20YouTube.jpg)](https://www.youtube.com/watch?v=oPbPPzfD5g8)
 
 #### Credits: ####
 
