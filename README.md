@@ -16,10 +16,10 @@
 
 #### Demo:
 
-Tested on Nexus 5X emulator / API level 27 (portrait mode) <br>
-
 ![image](https://github.com/evanca/ABND_P6-P7_News-Feed/blob/master/2018-05-12-Android%20Emulator%20-%20Nexus_5X_API_P_5554-A.jpg)
 ![image](https://github.com/evanca/ABND_P6-P7_News-Feed/blob/master/2018-05-12-Android%20Emulator%20-%20Nexus_5X_API_P_5554-B.jpg)
+
+Tested on Nexus 5X emulator / API level 27 (portrait mode) <br>
 
 [![YouTube](https://github.com/evanca/ABND_P6-P7_News-Feed/blob/master/2018-05-14-ABND%20P7%20News%20Feed%20Stage%20II%20Demo%20-%20YouTube.jpg)](https://www.youtube.com/watch?v=oPbPPzfD5g8)
 
